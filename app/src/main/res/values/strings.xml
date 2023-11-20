@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SaunaVuoroApp</string>
+    <string name="order_saunavuoro">Varaa Saunavuoro</string>
+    <string name="ir_sauna">IR Sauna Max 3hlö</string>
+    <string name="sahko_sauna">Sähkö Sauna Max 6hlö</string>
+    <string name="puu_sauna">Puu Sauna Max 12hlö</string>
+    <string name="kesto">Vuoron Pituus</string>
+    <string name="fifteen_min">15 min</string>
+    <string name="thirty_min">30 min</string>
+    <string name="one_hour">1h</string>
+    <string name="two_hours">2h</string>
+    <string name="three_hours">3h</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="choose_saunavuoro_date">Valitse Saunavuoron Päivä</string>
+    <string name="order_summary">Katselmus</string>
+    <string name="share">Varmista maksu</string>
+    <string name="duration">Kesto</string>
+    <string name="order_date">Päivämäärä</string>
+    <string name="subtotal_price">Hinta %s</string>
+    <string name="total_price">Yhteensä %s</string>
+    <string name="new_saunavuoro_order">Uusi Saunavuoro</string>
+    <string name="order_details">Saunan Tyyppi: %1$s \nKesto: %2$s \nPäivämäärä: %3$s \nYhteensä: %4$s \n\nVarattu!</string>
+    <string name="back_button">Edellinen</string>
+    <string name="sauna_type">Sauna</string>
+    <plurals name="saunavuorot">
+        <item quantity="one">%s </item>
+        <item quantity="other">%s </item>
+    </plurals>
+</resources>
